@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program to return the string with maximum length from an array of strings. Use LINQ.
+
+
 namespace MaxLength
 {
     class Lenghter

@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Implement auto-grow functionality: when the internal array is full, create a new array of double size and move all elements to it.
+//Create generic methods Min<T>() and Max<T>() for finding the minimal and maximal element in the  GenericList<T>. You may need to add a generic constraints for the type T.
+
+
 namespace AutoGrowFinction
 {
     public class GenericList<T>

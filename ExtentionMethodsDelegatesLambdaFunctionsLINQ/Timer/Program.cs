@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Using delegates write a class Timer that has can execute certain method at each t seconds.
+
+
     class Program
     {
         public static void DateAndTime()

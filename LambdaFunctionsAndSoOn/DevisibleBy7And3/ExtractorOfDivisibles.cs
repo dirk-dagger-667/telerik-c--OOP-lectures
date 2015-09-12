@@ -1,4 +1,7 @@
-﻿namespace DevisibleBy7And3
+﻿//Write a program that prints from given array of integers all numbers that are divisible by 7 and 3. Use the built-in extension methods and lambda expressions. Rewrite the same with LINQ.
+//Using delegates write a class Timer that has can execute certain method at each t seconds.
+
+namespace DevisibleBy7And3
 {
     using System;
     using System.Collections.Generic;

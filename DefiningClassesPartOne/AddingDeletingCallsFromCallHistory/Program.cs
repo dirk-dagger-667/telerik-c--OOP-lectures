@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Add methods in the GSM class for adding and deleting calls from the calls history. Add a method to clear the call history.
+
+
 namespace AddingDeletingCallsFromCallHistory
 {
     public enum BatteryType

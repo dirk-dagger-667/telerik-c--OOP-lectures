@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Add a method that calculates the total price of the calls in the call history. Assume the price per minute is fixed and is provided as a parameter.
+
+
 namespace PhoneBill
 {
     public enum BatteryType

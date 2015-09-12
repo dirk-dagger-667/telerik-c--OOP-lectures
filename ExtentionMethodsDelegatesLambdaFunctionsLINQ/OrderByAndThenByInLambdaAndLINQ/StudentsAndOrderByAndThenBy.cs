@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Using the extension methods OrderBy() and ThenBy() with lambda expressions sort the students by first name and last name in descending order. Rewrite the same with LINQ.
+
+
 namespace OrderByAndThenByInLambdaAndLINQ
 {
     class StudentsAndOrderByAndThenBy

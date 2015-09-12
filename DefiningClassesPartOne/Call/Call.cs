@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Create a class Call to hold a call performed through a GSM. It should contain date, time, dialed phone number and duration (in seconds).
+
+
 namespace Call
 {
     public class Call

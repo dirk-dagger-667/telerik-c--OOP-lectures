@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Add a method in the GSM class for displaying all information about it. Try to override ToString().
+
+
 namespace OverridingToStringMethod
 {
     public enum BatteryType
